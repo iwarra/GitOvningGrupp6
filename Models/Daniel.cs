@@ -4,5 +4,6 @@
     {
         int a = 15;
         // Hej på er!
+        int b = 29;
     }
 }
