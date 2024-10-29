@@ -2,5 +2,6 @@
 {
     public class Daniel
     {
+        // Hej på er!
     }
 }
