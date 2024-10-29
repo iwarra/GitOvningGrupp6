@@ -2,5 +2,6 @@
 {
     public class Daniel
     {
+        int c = 10;
     }
 }
