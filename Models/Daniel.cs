@@ -2,6 +2,7 @@
 {
     public class Daniel
     {
+        int a = 15;
         // Hej på er!
     }
 }
