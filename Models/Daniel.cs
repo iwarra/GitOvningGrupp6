@@ -2,8 +2,12 @@
 {
     public class Daniel
     {
-        int a = 15;
+        //int a = 15;
         // Hej på er!
-        int b = 29;
+        //int b = 29;
+
+
+        float f;
+
     }
 }
