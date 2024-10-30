@@ -2,5 +2,6 @@
 {
     public class Ivona
     {
+        public string Name { get; set; }
     }
 }
