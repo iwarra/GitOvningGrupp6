@@ -2,5 +2,6 @@
 {
     public class Micke
     {
+        int a = 1;
     }
 }
