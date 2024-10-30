@@ -3,5 +3,6 @@
     public class Ivona
     {
         public string Name { get; set; }
+        int x = 5;
     }
 }
